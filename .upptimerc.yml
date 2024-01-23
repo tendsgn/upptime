@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Beeldoverleg Website
     url: https://beeldoverleg.nl
+  - name: Beeldoverleg Sessie
+    url: https://sessie.beeldoverleg.nl/uptime
  # - name: Hacker News
  #   url: https://news.ycombinator.com
  # - name: Test Broken Site
