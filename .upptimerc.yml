@@ -7,6 +7,10 @@ sites:
     url: https://beeldoverleg.nl
   - name: Beeldoverleg Sessie
     url: https://sessie.beeldoverleg.nl/uptime
+  - name: GgzPraktijk
+    url: https://ggzpraktijk.nl
+
+
  # - name: Hacker News
  #   url: https://news.ycombinator.com
  # - name: Test Broken Site
