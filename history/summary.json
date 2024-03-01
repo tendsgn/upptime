@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2002,
-    "timeDay": 3461,
-    "timeWeek": 1894,
-    "timeMonth": 2142,
+    "timeDay": 3693,
+    "timeWeek": 1982,
+    "timeMonth": 2095,
     "timeYear": 2002,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 780,
-    "timeDay": 898,
-    "timeWeek": 776,
-    "timeMonth": 786,
+    "timeDay": 1229,
+    "timeWeek": 797,
+    "timeMonth": 783,
     "timeYear": 780,
     "dailyMinutesDown": {}
   },
@@ -41,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ggzpraktijk.nl.ico",
     "slug": "ggz-praktijk",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.77%",
+    "uptimeDay": "91.30%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.77%",
     "time": 983,
-    "timeDay": 704,
-    "timeWeek": 872,
-    "timeMonth": 976,
+    "timeDay": 0,
+    "timeWeek": 871,
+    "timeMonth": 979,
     "timeYear": 983,
     "dailyMinutesDown": {
-      "2024-02-29": 0
+      "2024-03-01": 73,
+      "2024-02-29": 52
     }
   }
 ]
