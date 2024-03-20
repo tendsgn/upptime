@@ -40,18 +40,19 @@
     "url": "https://ggzpraktijk.nl",
     "icon": "https://icons.duckduckgo.com/ip3/ggzpraktijk.nl.ico",
     "slug": "ggz-praktijk",
-    "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.54%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.14%",
-    "uptimeYear": "99.53%",
+    "uptimeYear": "99.54%",
     "time": 969,
     "timeDay": 1004,
     "timeWeek": 889,
     "timeMonth": 931,
     "timeYear": 969,
     "dailyMinutesDown": {
+      "2024-03-20": 0,
       "2024-03-01": 326,
       "2024-02-29": 52
     }
