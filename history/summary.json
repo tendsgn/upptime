@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/beeldoverleg.nl.ico",
     "slug": "beeldoverleg-website",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
     "time": 2177,
     "timeDay": 1489,
     "timeWeek": 2123,
     "timeMonth": 2265,
     "timeYear": 2177,
     "dailyMinutesDown": {
-      "2024-04-05": 0
+      "2024-04-05": 20
     }
   },
   {
@@ -24,9 +24,9 @@
     "url": "https://sessie.beeldoverleg.nl/uptime",
     "icon": "https://icons.duckduckgo.com/ip3/sessie.beeldoverleg.nl.ico",
     "slug": "beeldoverleg-sessie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 752,
     "timeMonth": 778,
     "timeYear": 776,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-05": 0
+    }
   },
   {
     "name": "GgzPraktijk",
