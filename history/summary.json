@@ -27,19 +27,19 @@
     "url": "https://sessie.beeldoverleg.nl/uptime",
     "icon": "https://icons.duckduckgo.com/ip3/sessie.beeldoverleg.nl.ico",
     "slug": "beeldoverleg-sessie",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.12%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.98%",
-    "time": 764,
-    "timeDay": 453,
-    "timeWeek": 642,
-    "timeMonth": 729,
-    "timeYear": 764,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.22%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.96%",
+    "time": 763,
+    "timeDay": 555,
+    "timeWeek": 643,
+    "timeMonth": 727,
+    "timeYear": 763,
     "dailyMinutesDown": {
-      "2024-04-09": 27
+      "2024-04-09": 40
     }
   },
   {
