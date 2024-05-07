@@ -4,9 +4,9 @@
     "url": "https://beeldoverleg.nl",
     "icon": "https://icons.duckduckgo.com/ip3/beeldoverleg.nl.ico",
     "slug": "beeldoverleg-website",
-    "status": "up",
+    "status": "down",
     "uptime": "98.56%",
-    "uptimeDay": "93.68%",
+    "uptimeDay": "93.67%",
     "uptimeWeek": "96.17%",
     "uptimeMonth": "95.14%",
     "uptimeYear": "98.56%",
@@ -76,9 +76,9 @@
     "slug": "ggz-praktijk",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 983,
     "timeDay": 850,
@@ -86,7 +86,6 @@
     "timeMonth": 930,
     "timeYear": 983,
     "dailyMinutesDown": {
-      "2024-05-07": 6,
       "2024-03-01": 326,
       "2024-02-29": 52
     }
