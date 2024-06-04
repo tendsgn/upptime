@@ -4,14 +4,14 @@
     "url": "https://beeldoverleg.nl",
     "icon": "https://icons.duckduckgo.com/ip3/beeldoverleg.nl.ico",
     "slug": "beeldoverleg-website",
-    "status": "up",
-    "uptime": "98.56%",
+    "status": "down",
+    "uptime": "98.58%",
     "uptimeDay": "96.51%",
     "uptimeWeek": "92.44%",
-    "uptimeMonth": "93.71%",
-    "uptimeYear": "98.56%",
+    "uptimeMonth": "93.77%",
+    "uptimeYear": "98.58%",
     "time": 2078,
-    "timeDay": 2097,
+    "timeDay": 2118,
     "timeWeek": 2038,
     "timeMonth": 2034,
     "timeYear": 2078,
@@ -42,7 +42,7 @@
       "2024-05-12": 101,
       "2024-05-11": 92,
       "2024-05-10": 16,
-      "2024-05-09": 158
+      "2024-05-09": 130
     }
   },
   {
