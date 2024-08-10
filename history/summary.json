@@ -54,9 +54,9 @@
     "url": "https://sessie.beeldoverleg.nl/uptime",
     "icon": "https://icons.duckduckgo.com/ip3/sessie.beeldoverleg.nl.ico",
     "slug": "beeldoverleg-sessie",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -66,6 +66,7 @@
     "timeMonth": 771,
     "timeYear": 791,
     "dailyMinutesDown": {
+      "2024-08-10": 0,
       "2024-04-09": 40
     }
   },
@@ -75,11 +76,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ggzpraktijk.nl.ico",
     "slug": "ggz-praktijk",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.84%",
+    "uptimeYear": "99.85%",
     "time": 976,
     "timeDay": 964,
     "timeWeek": 803,
