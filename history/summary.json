@@ -4,11 +4,11 @@
     "url": "https://beeldoverleg.nl",
     "icon": "https://icons.duckduckgo.com/ip3/beeldoverleg.nl.ico",
     "slug": "beeldoverleg-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "91.79%",
-    "uptimeWeek": "98.68%",
-    "uptimeMonth": "99.15%",
+    "uptimeDay": "91.48%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "99.14%",
     "uptimeYear": "99.36%",
     "time": 1909,
     "timeDay": 1010,
@@ -16,7 +16,7 @@
     "timeMonth": 1013,
     "timeYear": 1909,
     "dailyMinutesDown": {
-      "2024-10-19": 118,
+      "2024-10-19": 122,
       "2024-10-18": 15,
       "2024-10-10": 55,
       "2024-10-06": 19,
@@ -59,7 +59,7 @@
       "2024-06-11": 91,
       "2024-06-10": 190,
       "2024-06-09": 125,
-      "2024-06-08": 44
+      "2024-06-08": 25
     }
   },
   {
@@ -88,10 +88,10 @@
     "url": "https://ggzpraktijk.nl",
     "icon": "https://icons.duckduckgo.com/ip3/ggzpraktijk.nl.ico",
     "slug": "ggz-praktijk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "91.98%",
-    "uptimeWeek": "98.85%",
+    "uptimeDay": "91.82%",
+    "uptimeWeek": "98.83%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.85%",
     "time": 986,
@@ -100,7 +100,7 @@
     "timeMonth": 995,
     "timeYear": 986,
     "dailyMinutesDown": {
-      "2024-10-19": 115,
+      "2024-10-19": 117,
       "2024-10-10": 18,
       "2024-06-18": 31,
       "2024-06-13": 37,
