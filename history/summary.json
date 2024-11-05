@@ -6,17 +6,16 @@
     "slug": "beeldoverleg-website",
     "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "98.46%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "99.08%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.09%",
     "uptimeYear": "99.41%",
     "time": 1887,
-    "timeDay": 992,
-    "timeWeek": 861,
-    "timeMonth": 1003,
+    "timeDay": 734,
+    "timeWeek": 877,
+    "timeMonth": 995,
     "timeYear": 1887,
     "dailyMinutesDown": {
-      "2024-11-04": 6,
       "2024-11-03": 16,
       "2024-10-29": 39,
       "2024-10-28": 21,
@@ -64,7 +63,7 @@
       "2024-06-13": 54,
       "2024-06-12": 143,
       "2024-06-11": 91,
-      "2024-06-10": 108
+      "2024-06-10": 123
     }
   },
   {
@@ -79,9 +78,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 837,
-    "timeDay": 882,
-    "timeWeek": 761,
-    "timeMonth": 782,
+    "timeDay": 881,
+    "timeWeek": 708,
+    "timeMonth": 757,
     "timeYear": 837,
     "dailyMinutesDown": {
       "2024-08-10": 63,
@@ -100,9 +99,9 @@
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.84%",
     "time": 999,
-    "timeDay": 574,
-    "timeWeek": 814,
-    "timeMonth": 1059,
+    "timeDay": 1113,
+    "timeWeek": 859,
+    "timeMonth": 1057,
     "timeYear": 999,
     "dailyMinutesDown": {
       "2024-10-24": 15,
