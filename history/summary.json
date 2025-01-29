@@ -12,7 +12,7 @@
     "uptimeYear": "99.49%",
     "time": 1847,
     "timeDay": 2107,
-    "timeWeek": 2147,
+    "timeWeek": 2148,
     "timeMonth": 1946,
     "timeYear": 1849,
     "dailyMinutesDown": {
@@ -56,9 +56,9 @@
     "url": "https://sessie.beeldoverleg.nl/uptime",
     "icon": "https://icons.duckduckgo.com/ip3/sessie.beeldoverleg.nl.ico",
     "slug": "beeldoverleg-sessie",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -68,6 +68,7 @@
     "timeMonth": 662,
     "timeYear": 825,
     "dailyMinutesDown": {
+      "2025-01-29": 0,
       "2024-08-10": 63,
       "2024-04-09": 40
     }
