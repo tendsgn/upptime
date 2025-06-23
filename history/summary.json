@@ -6,9 +6,9 @@
     "slug": "beeldoverleg-website",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "98.34%",
-    "uptimeWeek": "98.43%",
-    "uptimeMonth": "99.08%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "98.49%",
+    "uptimeMonth": "99.09%",
     "uptimeYear": "99.52%",
     "time": 1467,
     "timeDay": 1036,
@@ -16,7 +16,7 @@
     "timeMonth": 939,
     "timeYear": 1438,
     "dailyMinutesDown": {
-      "2025-06-22": 24,
+      "2025-06-22": 17,
       "2025-06-21": 26,
       "2025-06-20": 22,
       "2025-06-18": 60,
@@ -49,7 +49,7 @@
       "2025-02-03": 220,
       "2025-02-02": 287,
       "2025-02-01": 287,
-      "2025-01-31": 19
+      "2025-01-31": 41
     }
   },
   {
@@ -80,9 +80,9 @@
     "slug": "ggz-praktijk",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.11%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.12%",
     "uptimeYear": "99.84%",
     "time": 1030,
     "timeDay": 1180,
@@ -90,7 +90,6 @@
     "timeMonth": 1149,
     "timeYear": 1041,
     "dailyMinutesDown": {
-      "2025-06-22": 5,
       "2025-06-21": 24,
       "2025-06-20": 19,
       "2025-06-18": 33,
