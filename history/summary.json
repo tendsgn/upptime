@@ -6,17 +6,17 @@
     "slug": "beeldoverleg-website",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "93.86%",
-    "uptimeWeek": "94.37%",
-    "uptimeMonth": "96.12%",
+    "uptimeDay": "94.73%",
+    "uptimeWeek": "94.49%",
+    "uptimeMonth": "96.48%",
     "uptimeYear": "99.17%",
     "time": 1502,
-    "timeDay": 2326,
+    "timeDay": 2377,
     "timeWeek": 2238,
     "timeMonth": 1911,
     "timeYear": 1502,
     "dailyMinutesDown": {
-      "2025-07-27": 88,
+      "2025-07-27": 75,
       "2025-07-26": 43,
       "2025-07-24": 48,
       "2025-07-23": 75,
@@ -64,7 +64,7 @@
       "2025-02-21": 16,
       "2025-02-12": 16,
       "2025-02-07": 189,
-      "2025-02-06": 188
+      "2025-02-06": 211
     }
   },
   {
@@ -98,7 +98,7 @@
     "uptime": "99.55%",
     "uptimeDay": "97.38%",
     "uptimeWeek": "98.33%",
-    "uptimeMonth": "98.44%",
+    "uptimeMonth": "98.77%",
     "uptimeYear": "99.41%",
     "time": 1029,
     "timeDay": 1168,
