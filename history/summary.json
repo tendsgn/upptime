@@ -68,9 +68,9 @@
     "url": "https://sessie.beeldoverleg.nl/uptime",
     "icon": "https://icons.duckduckgo.com/ip3/sessie.beeldoverleg.nl.ico",
     "slug": "beeldoverleg-sessie",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
@@ -80,6 +80,7 @@
     "timeMonth": 752,
     "timeYear": 819,
     "dailyMinutesDown": {
+      "2025-08-08": 0,
       "2025-07-09": 18,
       "2025-05-22": 18,
       "2024-08-10": 63
