@@ -9,7 +9,10 @@ sites:
     url: https://sessie.beeldoverleg.nl/uptime
   - name: GgzPraktijk
     url: https://ggzpraktijk.nl
-
+  - name: KLA
+    url: https://kringlokaleaanbieders.nl
+  - name: 10DSGN
+    url: https://10dsgn.nl.nl
 
  # - name: Hacker News
  #   url: https://news.ycombinator.com
