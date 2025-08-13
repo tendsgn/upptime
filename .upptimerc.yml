@@ -12,7 +12,7 @@ sites:
   - name: KLA
     url: https://kringlokaleaanbieders.nl
   - name: 10DSGN
-    url: https://10dsgn.nl.nl
+    url: https://10dsgn.nl
 
  # - name: Hacker News
  #   url: https://news.ycombinator.com
