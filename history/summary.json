@@ -4,19 +4,19 @@
     "url": "https://beeldoverleg.nl",
     "icon": "https://icons.duckduckgo.com/ip3/beeldoverleg.nl.ico",
     "slug": "beeldoverleg-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "94.05%",
-    "uptimeWeek": "95.28%",
-    "uptimeMonth": "93.95%",
+    "uptimeDay": "93.74%",
+    "uptimeWeek": "95.24%",
+    "uptimeMonth": "93.94%",
     "uptimeYear": "99.02%",
     "time": 1548,
-    "timeDay": 2210,
+    "timeDay": 2205,
     "timeWeek": 2375,
     "timeMonth": 2320,
     "timeYear": 1587,
     "dailyMinutesDown": {
-      "2025-08-14": 63,
+      "2025-08-14": 67,
       "2025-08-13": 270,
       "2025-08-10": 20,
       "2025-08-09": 36,
@@ -55,8 +55,7 @@
       "2025-06-22": 17,
       "2025-06-21": 26,
       "2025-06-20": 22,
-      "2025-06-18": 60,
-      "2025-06-17": 27
+      "2025-06-18": 60
     }
   },
   {
@@ -170,19 +169,19 @@
     "url": "https://10dsgn.nl",
     "icon": "https://icons.duckduckgo.com/ip3/10dsgn.nl.ico",
     "slug": "10-dsgn",
-    "status": "up",
-    "uptime": "83.87%",
-    "uptimeDay": "94.67%",
-    "uptimeWeek": "83.87%",
-    "uptimeMonth": "83.87%",
-    "uptimeYear": "83.87%",
+    "status": "down",
+    "uptime": "83.88%",
+    "uptimeDay": "94.51%",
+    "uptimeWeek": "83.88%",
+    "uptimeMonth": "83.88%",
+    "uptimeYear": "83.88%",
     "time": 731,
-    "timeDay": 730,
+    "timeDay": 677,
     "timeWeek": 731,
     "timeMonth": 731,
     "timeYear": 731,
     "dailyMinutesDown": {
-      "2025-08-14": 57,
+      "2025-08-14": 59,
       "2025-08-13": 265
     }
   }
